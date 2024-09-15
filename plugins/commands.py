@@ -21,7 +21,7 @@ import re, asyncio, os, sys
 import json
 import base64
 logger = logging.getLogger(__name__)
-# https://t.me/JISSHU_BOTS
+# https://t.me/boamovies
 # https://t.me/Jisshu_support
 TIMEZONE = "Asia/Kolkata"
 BATCH_FILES = {}
